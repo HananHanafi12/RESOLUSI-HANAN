@@ -2,3 +2,4 @@ RENCANA SEMESTER 5
 - konsisten
 - hidup sehat
 javascript
+
